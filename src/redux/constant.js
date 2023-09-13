@@ -1,0 +1,11 @@
+export const PRODUCT_LIST="PRODUCT_LIST"
+export const SET_PRODUCT_LIST="SET_PRODUCT_LIST"
+export const SEARCH_PRODUCT="SEARCH_PRODUCT"
+export const SEARCH_MOVIES="SEARCH_MOVIES"
+
+
+
+
+
+
+
